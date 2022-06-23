@@ -30,3 +30,26 @@ h1 {
     max-width: 960px;
     margin: 0 auto;
 }
+
+/*sezione about*/
+#about {
+    background-color: darkseagreen;
+}
+#about h2 {
+    color:#fff;
+}
+#about .linea {
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+}
+#about i {
+    color: #fff;
+}
+#about .my_container {
+    max-width: 65%;
+    margin: 0 auto;
+}
+#about p {
+    color: #fff;
+}
