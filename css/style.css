@@ -8,11 +8,21 @@ html{
 h1 {
     color: #fff;
 }
-.linea {
+#start .linea {
     width: 100%;
     height: 2px;
     background-color: #fff;
 }
 #start i {
     color: #fff;
+}
+#start .my_text {
+    color: #fff;
+}
+
+/*sezione portfolio*/
+#portfolio .linea {
+    width: 100%;
+    height: 2px;
+    background-color: black;
 }
