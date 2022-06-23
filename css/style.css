@@ -26,3 +26,7 @@ h1 {
     height: 2px;
     background-color: black;
 }
+#portfolio .my_container {
+    max-width: 960px;
+    margin: 0 auto;
+}
