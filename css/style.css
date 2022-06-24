@@ -39,6 +39,18 @@ h1 {
     max-width: 960px;
     margin: 0 auto;
 }
+.hover {
+    width: 94%;
+    height: 97%;
+    background-color: rgba(23, 23, 23, 0.452);
+    position: absolute;
+    top: 0;
+    left: 8px;
+    display: none;
+}
+#portfolio .position-relative:hover .hover {
+    display: block;
+}
 
 /*sezione about*/
 #about {
